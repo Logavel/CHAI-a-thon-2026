@@ -2,7 +2,7 @@ CHAI-a-thon 2026
 
 AI Innovation Hackathon
 
-Team: [Your LM]
+Team:Logavel.m
 
 Team Members:
 
