@@ -2,12 +2,12 @@ CHAI-a-thon 2026
 
 AI Innovation Hackathon
 
-Team: [Your Team Name]
+Team: [Your LM]
 
 Team Members:
 
 - Logavel M – AI & DS
-- [Teammate Name]
+- [Meghanandh G - AIDS]
 
 About the Project
 
